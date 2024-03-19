@@ -1,0 +1,16 @@
+{
+    "name": "arcan31/typhp",
+    "description": "php typado",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Arcan31\\Typhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "4rcan31"
+        }
+    ],
+    "require": {}
+}
